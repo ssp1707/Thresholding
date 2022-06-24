@@ -104,13 +104,13 @@ for i in range(0,9):
 
 ### Adaptive Thresholding
 
-![9 7](https://user-images.githubusercontent.com/75234965/169638010-f32740a0-bce7-4523-b757-3604c7dde1e4.PNG)
-
 ![9 8](https://user-images.githubusercontent.com/75234965/169638015-c1603c2e-fa5b-4342-a1cc-42c2af7d159b.PNG)
+
+![9 9](https://user-images.githubusercontent.com/75234965/169638039-363d29f7-d906-46ca-ba16-732009cb57b1.PNG)
 
 ### Optimum Global Thesholding using Otsu's Method
 
-![9 9](https://user-images.githubusercontent.com/75234965/169638039-363d29f7-d906-46ca-ba16-732009cb57b1.PNG)
+![9 7](https://user-images.githubusercontent.com/75234965/169638010-f32740a0-bce7-4523-b757-3604c7dde1e4.PNG)
 
 ## Result
 Thus the images are segmented using global thresholding, adaptive thresholding and optimum global thresholding using python and OpenCV.
